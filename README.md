@@ -1,0 +1,1 @@
+A C++ application that mimics the functionality of social media apps
