@@ -6,7 +6,7 @@ Data Structures used: Graphs
 
 ‘Connections’ depicts the real world application of graphs in social media platforms by showcasing how different users can expand their social network based on mutual connections. 
 
-We have used three basic levels in our project: 
+We have used three basic levels in our project: <br>
 Primary - Direct connection <br>
 Secondary - Have mutual connections <br>
 Tertiary -  Third level connections (Connected to a mutual connection, so is around the circle we interact with) <br>
